@@ -1,4 +1,4 @@
-package com.axe1lyze.hardware;
+package com.axe1lyze.android.hardware;
 
 import java.util.Collections;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package com.axe1lyze.widget;
+package com.axe1lyze.android.widget;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -28,10 +28,10 @@ import android.widget.FrameLayout;
 import java.util.Collections;
 import java.util.Comparator;
 
-import com.axe1lyze.hardware.SupportCamera;
-import com.axe1lyze.hardware.SupportCamera.CameraException;
-import com.axe1lyze.hardware.SupportCamera.CameraListener;
-import com.axe1lyze.hardware.SupportCamera.State;
+import com.axe1lyze.android.hardware.SupportCamera;
+import com.axe1lyze.android.hardware.SupportCamera.CameraException;
+import com.axe1lyze.android.hardware.SupportCamera.CameraListener;
+import com.axe1lyze.android.hardware.SupportCamera.State;
 
 
 
